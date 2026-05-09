@@ -56,6 +56,8 @@ FAISS Semantic Index ← S-PubMedBert-MS-MARCO Encoder
 | Clinical questions answered | 15/15 (100%) |
 | Unanswerable detection | 5/5 (100%) |
 
+![Evaluation Results](evaluation_results.png)
+
 ---
 
 ## Knowledge Base
